@@ -100,7 +100,7 @@ Person > Motorcycle > Bicycle > Obstacle 순으로 Confidence 값이 높게 출�
 ## 🤹‍♂️ 6.테스트 영상
 
 * 낮 영상 TEST 
-  [Video](https://drive.google.com/file/d/1RnfllB1eP3Zpma1ZafQjPef4hU3V70aQ/view?resourcekey)
+  https://drive.google.com/file/d/1RnfllB1eP3Zpma1ZafQjPef4hU3V70aQ/view?usp=sharing
 * 밤 영상 TEST 
   [Video](https://drive.google.com/file/d/1a0xsWnle6wHmJQEReLGeP0D-5rlqjI5E/view?resourcekey)
 
